@@ -1,0 +1,44 @@
+.search{
+    width: 200px;
+    border: none;
+}
+.icon{
+    padding-left: 20px;
+}
+.img{
+    background-size: cover;
+}
+.image{
+    background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2018/09/Abstract-Ambient-Light-Background-Day-Blue.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black:hover{
+    color: black;
+}
+.f{
+    background-color: #03164b;
+}
+.t , .a:hover{
+    color: #f3f3f3;
+}
+.d{
+margin-top: 0px;
+}
+.bo{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.h{
+   display: none; 
+}
+ 
+@media(min-width:360px) {
+    .he{
+        display: none;
+    }
+    header{
+        display: flex;
+    }
+}
